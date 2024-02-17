@@ -214,6 +214,7 @@ html {
   .wish-hbd {
     font-size: 3em;
     margin: 0;
+    word-spacing: 1em;
     /* text-transform: uppercase; */
   }
   
